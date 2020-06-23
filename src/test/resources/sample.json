@@ -1,0 +1,8 @@
+{
+    "name" : "John",
+    "age" : 31,
+    "emailId" : "johnsontraining8@gmail.com",
+    "mobileNo" : 9876543210,
+    "semester" : 3,
+    "department" : "cse"
+}
